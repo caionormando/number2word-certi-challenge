@@ -80,7 +80,7 @@ To test it, you can execute *curl http://localhost:5000/x*, where "x" is the num
 
 If you prefer to use the interface, after running the previous instructions:
 
-- **First step**: Inside the repository folder, open a terminal and execute *npm start*
+- **First step**: Inside the repository folder, open a terminal and execute *npm install* and then *npm start*
 - **Second step**: Wait for the application to be loaded
 - **Third step**: Open your browser and type *http://localhost:4200*
 
