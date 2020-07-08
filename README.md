@@ -84,9 +84,13 @@ If you prefer to use the interface, after running the previous instructions:
 - **Second step**: Wait for the application to be loaded
 - **Third step**: Open your browser and type *http://localhost:4200*
 
-
-
-
-
-
-
+##### Resources
+* Angular 8
+* RxJS 6.5
+* HTML5
+* Javascript
+* Bootstrap
+* Python 3.7
+* Flask
+* PyTest
+* Docker
